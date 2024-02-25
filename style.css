@@ -1,7 +1,7 @@
 
 /* style du body*/
 body{
-    background-color: rgb(131, 131, 131);
+    background-color: #838383;
     color: rgb(0, 0, 0);
 }
 
@@ -27,6 +27,7 @@ h3{
 h2, h3 {
     flex: 1; /* Les éléments h2 et h3 auront une taille égale et occuperont tout l'espace disponible */
 }
+
 .image1{
     display: block;
     margin-left:auto;
