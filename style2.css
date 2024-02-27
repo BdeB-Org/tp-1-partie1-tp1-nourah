@@ -8,12 +8,17 @@
     margin: 10px;
 }
 
-img {
-    max-width: 100%; 
-    margin-right: 10px;
+.image-container {
+    text-align: center;
 }
 
-.flex-container {
-    display: flex;
-    align-items: center;
+img {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+p {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 10px;
 }
