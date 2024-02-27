@@ -9,16 +9,16 @@
 }
 
 .image-container {
-    text-align: left;
+    text-align: right;
 }
 
 img {
     display: inline-block;
-    vertical-align: left;
+    vertical-align: right;
 }
 
 p {
     display: inline-block;
-    vertical-align: right;
+    vertical-align: left;
     margin-left: 10px;
 }
