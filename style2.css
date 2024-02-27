@@ -14,11 +14,11 @@
 
 img {
     display: inline-block;
-    vertical-align: left;
+    vertical-align: right;
 }
 
 p {
     display: inline-block;
-    vertical-align: right;
+    vertical-align: center;
     margin-left: 10px;
 }
