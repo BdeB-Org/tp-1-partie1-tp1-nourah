@@ -1,0 +1,6 @@
+/*style pour mettre les éléments au milieu*/
+.milieu{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
