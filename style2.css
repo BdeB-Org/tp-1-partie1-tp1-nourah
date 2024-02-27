@@ -9,7 +9,7 @@
 }
 
 .image-container {
-    text-align: center;
+    text-align: left;
 }
 
 img {
@@ -19,6 +19,6 @@ img {
 
 p {
     display: inline-block;
-    vertical-align: center;
+    vertical-align: left;
     margin-left: 10px;
 }
