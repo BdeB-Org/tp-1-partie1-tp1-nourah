@@ -1,11 +1,7 @@
 /*style pour mettre les éléments au milieu*/
 .milieu{
-    /*
-    display: flex;
-    justify-content: center;
-    align-items: center;*/
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(70px, 1fr));
     gap: 10px; 
     place-items: center;
     text-align: center;
