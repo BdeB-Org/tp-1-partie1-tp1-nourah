@@ -1,0 +1,167 @@
+d210a8a (HEAD -> branchcat2, origin/branchcat2) refs/remotes/origin/branchcat2@{2024-02-28 11:35:12 -0500}: update by push
+d210a8a (HEAD -> branchcat2, origin/branchcat2) refs/heads/branchcat2@{2024-02-28 11:35:06 -0500}: commit: ajout du journal
+d210a8a (HEAD -> branchcat2, origin/branchcat2) HEAD@{2024-02-28 11:35:06 -0500}: commit: ajout du journal
+8553e49 HEAD@{2024-02-28 11:29:15 -0500}: checkout: moving from main to branchcat2
+a74dd14 (origin/main, main) refs/heads/main@{2024-02-28 11:28:46 -0500}: pull: Fast-forward
+a74dd14 (origin/main, main) refs/remotes/origin/main@{2024-02-28 11:28:46 -0500}: pull: fast-forward
+a74dd14 (origin/main, main) HEAD@{2024-02-28 11:28:46 -0500}: pull: Fast-forward
+ab953e6 HEAD@{2024-02-28 11:28:41 -0500}: checkout: moving from branchcat2 to main
+8553e49 HEAD@{2024-02-28 11:22:11 -0500}: checkout: moving from main to branchcat2
+ab953e6 HEAD@{2024-02-28 11:21:48 -0500}: checkout: moving from branchcat1 to main
+5379851 (origin/branchcat1, branchcat1) refs/heads/branchcat1@{2024-02-28 11:21:09 -0500}: branch: Created from refs/remotes/origin/branchcat1
+5379851 (origin/branchcat1, branchcat1) HEAD@{2024-02-28 11:21:09 -0500}: checkout: moving from branchcat2 to branchcat1
+8553e49 HEAD@{2024-02-28 11:17:29 -0500}: checkout: moving from main to branchcat2
+ab953e6 HEAD@{2024-02-28 11:16:52 -0500}: checkout: moving from branchcat2 to main
+8553e49 refs/remotes/origin/branchcat2@{2024-02-28 07:33:08 -0500}: update by push
+8553e49 refs/heads/branchcat2@{2024-02-28 07:33:04 -0500}: commit: ajustements des espaces
+8553e49 HEAD@{2024-02-28 07:33:04 -0500}: commit: ajustements des espaces
+6bc3acc refs/remotes/origin/branchcat2@{2024-02-28 07:31:56 -0500}: update by push
+6bc3acc refs/heads/branchcat2@{2024-02-28 07:31:48 -0500}: commit: ajustements des espaces
+6bc3acc HEAD@{2024-02-28 07:31:48 -0500}: commit: ajustements des espaces
+a604e08 refs/heads/branchcat2@{2024-02-28 07:30:20 -0500}: pull: Fast-forward
+5379851 (origin/branchcat1, branchcat1) refs/remotes/origin/branchcat1@{2024-02-28 07:30:20 -0500}: pull: fast-forward
+a604e08 refs/remotes/origin/branchcat2@{2024-02-28 07:30:20 -0500}: pull: fast-forward
+a604e08 HEAD@{2024-02-28 07:30:20 -0500}: pull: Fast-forward
+afd970c HEAD@{2024-02-28 06:57:02 -0500}: checkout: moving from css to branchcat2
+3a3e9e6 (origin/css, css) refs/remotes/origin/css@{2024-02-28 06:56:51 -0500}: update by push
+3a3e9e6 (origin/css, css) refs/heads/css@{2024-02-28 06:56:45 -0500}: commit: ajout de la vrai page css
+3a3e9e6 (origin/css, css) HEAD@{2024-02-28 06:56:45 -0500}: commit: ajout de la vrai page css
+1c52656 refs/remotes/origin/css@{2024-02-28 06:55:55 -0500}: update by push
+1c52656 refs/heads/css@{2024-02-28 06:55:02 -0500}: commit: ajout de la page css dans les autres pages
+1c52656 HEAD@{2024-02-28 06:55:02 -0500}: commit: ajout de la page css dans les autres pages
+ab953e6 HEAD@{2024-02-28 06:54:14 -0500}: checkout: moving from main to css
+ab953e6 refs/heads/css@{2024-02-28 06:54:08 -0500}: branch: Created from main
+ab953e6 refs/heads/main@{2024-02-28 06:54:01 -0500}: branch: Created from refs/remotes/origin/main
+ab953e6 HEAD@{2024-02-28 06:54:01 -0500}: checkout: moving from branchcat2 to main
+afd970c refs/remotes/origin/branchcat2@{2024-02-27 18:59:20 -0500}: update by push
+afd970c refs/heads/branchcat2@{2024-02-27 18:59:14 -0500}: commit: ajout de la page css dans les autres pages
+afd970c HEAD@{2024-02-27 18:59:14 -0500}: commit: ajout de la page css dans les autres pages
+2a10832 refs/remotes/origin/branchcat2@{2024-02-27 18:56:07 -0500}: update by push
+2a10832 refs/heads/branchcat2@{2024-02-27 18:56:04 -0500}: commit: ajustement des espaces
+2a10832 HEAD@{2024-02-27 18:56:04 -0500}: commit: ajustement des espaces
+73a8668 refs/remotes/origin/branchcat2@{2024-02-27 18:55:30 -0500}: update by push
+73a8668 refs/heads/branchcat2@{2024-02-27 18:55:27 -0500}: commit: ajustement des espaces
+73a8668 HEAD@{2024-02-27 18:55:27 -0500}: commit: ajustement des espaces
+b4e61a9 refs/remotes/origin/branchcat2@{2024-02-27 18:54:17 -0500}: update by push
+b4e61a9 refs/heads/branchcat2@{2024-02-27 18:54:13 -0500}: commit: ajustement des espaces
+b4e61a9 HEAD@{2024-02-27 18:54:13 -0500}: commit: ajustement des espaces
+ccd3705 refs/remotes/origin/branchcat2@{2024-02-27 18:53:29 -0500}: update by push
+ccd3705 refs/heads/branchcat2@{2024-02-27 18:53:25 -0500}: commit: ajustement des espaces
+ccd3705 HEAD@{2024-02-27 18:53:25 -0500}: commit: ajustement des espaces
+029ac6d refs/remotes/origin/branchcat2@{2024-02-27 18:38:05 -0500}: update by push
+029ac6d refs/heads/branchcat2@{2024-02-27 18:38:01 -0500}: commit: ajustement des espaces
+029ac6d HEAD@{2024-02-27 18:38:01 -0500}: commit: ajustement des espaces
+bea127d refs/remotes/origin/branchcat2@{2024-02-27 18:37:29 -0500}: update by push
+bea127d refs/heads/branchcat2@{2024-02-27 18:37:24 -0500}: commit: ajustement des espaces
+bea127d HEAD@{2024-02-27 18:37:24 -0500}: commit: ajustement des espaces
+7bf5c72 refs/remotes/origin/branchcat2@{2024-02-27 18:36:18 -0500}: update by push
+7bf5c72 refs/heads/branchcat2@{2024-02-27 18:36:14 -0500}: commit: ajustement des espaces
+7bf5c72 HEAD@{2024-02-27 18:36:14 -0500}: commit: ajustement des espaces
+268f921 refs/remotes/origin/branchcat2@{2024-02-27 18:35:45 -0500}: update by push
+268f921 refs/heads/branchcat2@{2024-02-27 18:35:41 -0500}: commit: ajustement des espaces
+268f921 HEAD@{2024-02-27 18:35:41 -0500}: commit: ajustement des espaces
+2ee5219 refs/remotes/origin/branchcat2@{2024-02-27 18:35:11 -0500}: update by push
+2ee5219 refs/heads/branchcat2@{2024-02-27 18:35:06 -0500}: commit: ajustement des espaces
+2ee5219 HEAD@{2024-02-27 18:35:06 -0500}: commit: ajustement des espaces
+068457f refs/remotes/origin/branchcat2@{2024-02-27 18:33:44 -0500}: update by push
+068457f refs/heads/branchcat2@{2024-02-27 18:33:40 -0500}: commit: ajustement des espaces
+068457f HEAD@{2024-02-27 18:33:40 -0500}: commit: ajustement des espaces
+bc7ea20 refs/remotes/origin/branchcat2@{2024-02-27 18:33:02 -0500}: update by push
+bc7ea20 refs/heads/branchcat2@{2024-02-27 18:32:58 -0500}: commit: ajustement des espaces
+bc7ea20 HEAD@{2024-02-27 18:32:58 -0500}: commit: ajustement des espaces
+afe4f2b refs/remotes/origin/branchcat2@{2024-02-27 18:32:25 -0500}: update by push
+afe4f2b refs/heads/branchcat2@{2024-02-27 18:32:21 -0500}: commit: ajustement des espaces
+afe4f2b HEAD@{2024-02-27 18:32:21 -0500}: commit: ajustement des espaces
+ce3e089 refs/remotes/origin/branchcat2@{2024-02-27 18:31:20 -0500}: update by push
+ce3e089 refs/heads/branchcat2@{2024-02-27 18:31:16 -0500}: commit: ajustement des espaces
+ce3e089 HEAD@{2024-02-27 18:31:16 -0500}: commit: ajustement des espaces
+5da342b refs/remotes/origin/branchcat2@{2024-02-27 18:29:45 -0500}: update by push
+5da342b refs/heads/branchcat2@{2024-02-27 18:29:41 -0500}: commit: ajustement des espaces
+5da342b HEAD@{2024-02-27 18:29:41 -0500}: commit: ajustement des espaces
+4ea5c3e refs/remotes/origin/branchcat2@{2024-02-27 18:28:35 -0500}: update by push
+4ea5c3e refs/heads/branchcat2@{2024-02-27 18:28:30 -0500}: commit: ajustement des espaces
+4ea5c3e HEAD@{2024-02-27 18:28:30 -0500}: commit: ajustement des espaces
+73e9040 refs/remotes/origin/branchcat2@{2024-02-27 18:25:13 -0500}: update by push
+73e9040 refs/heads/branchcat2@{2024-02-27 18:25:08 -0500}: commit: ajustement des espaces
+73e9040 HEAD@{2024-02-27 18:25:08 -0500}: commit: ajustement des espaces
+11eed06 refs/remotes/origin/branchcat2@{2024-02-27 18:23:31 -0500}: update by push
+11eed06 refs/heads/branchcat2@{2024-02-27 18:23:26 -0500}: commit: ajustement des espaces
+11eed06 HEAD@{2024-02-27 18:23:26 -0500}: commit: ajustement des espaces
+15aaa78 refs/remotes/origin/branchcat2@{2024-02-27 18:22:12 -0500}: update by push
+15aaa78 refs/heads/branchcat2@{2024-02-27 18:22:08 -0500}: commit: ajustement des espaces
+15aaa78 HEAD@{2024-02-27 18:22:08 -0500}: commit: ajustement des espaces
+d926ee4 refs/remotes/origin/branchcat2@{2024-02-27 18:19:20 -0500}: update by push
+d926ee4 refs/heads/branchcat2@{2024-02-27 18:19:16 -0500}: commit: ajustement des espaces
+d926ee4 HEAD@{2024-02-27 18:19:16 -0500}: commit: ajustement des espaces
+0e61470 refs/remotes/origin/branchcat2@{2024-02-27 18:15:49 -0500}: update by push
+0e61470 refs/heads/branchcat2@{2024-02-27 18:15:45 -0500}: commit: ajustement des espaces
+0e61470 HEAD@{2024-02-27 18:15:45 -0500}: commit: ajustement des espaces
+95962ea refs/remotes/origin/branchcat2@{2024-02-27 18:14:54 -0500}: update by push
+95962ea refs/heads/branchcat2@{2024-02-27 18:14:49 -0500}: commit: ajustement des espaces
+95962ea HEAD@{2024-02-27 18:14:49 -0500}: commit: ajustement des espaces
+0a27413 refs/remotes/origin/branchcat2@{2024-02-27 18:14:15 -0500}: update by push
+0a27413 refs/heads/branchcat2@{2024-02-27 18:14:11 -0500}: commit: ajustement des espaces
+0a27413 HEAD@{2024-02-27 18:14:11 -0500}: commit: ajustement des espaces
+87ca408 refs/remotes/origin/branchcat2@{2024-02-27 18:13:12 -0500}: update by push
+87ca408 refs/heads/branchcat2@{2024-02-27 18:13:07 -0500}: commit: ajustement des espaces
+87ca408 HEAD@{2024-02-27 18:13:07 -0500}: commit: ajustement des espaces
+2adda13 refs/remotes/origin/branchcat2@{2024-02-27 18:11:29 -0500}: update by push
+2adda13 refs/heads/branchcat2@{2024-02-27 18:11:25 -0500}: commit: ajustement des espaces
+2adda13 HEAD@{2024-02-27 18:11:25 -0500}: commit: ajustement des espaces
+5951e16 refs/remotes/origin/branchcat2@{2024-02-27 18:09:29 -0500}: update by push
+5951e16 refs/heads/branchcat2@{2024-02-27 18:09:25 -0500}: commit: ajustement des espaces
+5951e16 HEAD@{2024-02-27 18:09:25 -0500}: commit: ajustement des espaces
+1e50b42 refs/remotes/origin/branchcat2@{2024-02-27 18:05:23 -0500}: update by push
+1e50b42 refs/heads/branchcat2@{2024-02-27 18:05:18 -0500}: commit: ajustement des espaces
+1e50b42 HEAD@{2024-02-27 18:05:18 -0500}: commit: ajustement des espaces
+2eddbba refs/remotes/origin/branchcat2@{2024-02-27 18:03:38 -0500}: update by push
+2eddbba refs/heads/branchcat2@{2024-02-27 18:03:34 -0500}: commit: ajustement des espaces
+2eddbba HEAD@{2024-02-27 18:03:34 -0500}: commit: ajustement des espaces
+377e92b refs/remotes/origin/branchcat2@{2024-02-27 18:02:35 -0500}: update by push
+377e92b refs/heads/branchcat2@{2024-02-27 18:02:30 -0500}: commit: ajustement des espaces
+377e92b HEAD@{2024-02-27 18:02:30 -0500}: commit: ajustement des espaces
+0cd2e42 refs/remotes/origin/branchcat2@{2024-02-27 18:01:43 -0500}: update by push
+0cd2e42 refs/heads/branchcat2@{2024-02-27 18:01:39 -0500}: commit: ajustement des espaces
+0cd2e42 HEAD@{2024-02-27 18:01:39 -0500}: commit: ajustement des espaces
+f13ae0f refs/remotes/origin/branchcat2@{2024-02-27 16:39:53 -0500}: update by push
+f13ae0f refs/heads/branchcat2@{2024-02-27 16:39:49 -0500}: commit: ajustement des espaces
+f13ae0f HEAD@{2024-02-27 16:39:49 -0500}: commit: ajustement des espaces
+a954309 refs/remotes/origin/branchcat2@{2024-02-27 16:38:41 -0500}: update by push
+a954309 refs/heads/branchcat2@{2024-02-27 16:38:35 -0500}: commit: ajustement des espaces
+a954309 HEAD@{2024-02-27 16:38:35 -0500}: commit: ajustement des espaces
+b7c81f1 refs/remotes/origin/branchcat2@{2024-02-27 16:37:44 -0500}: update by push
+b7c81f1 refs/heads/branchcat2@{2024-02-27 16:37:40 -0500}: commit: ajustement des espaces
+b7c81f1 HEAD@{2024-02-27 16:37:40 -0500}: commit: ajustement des espaces
+ab728e8 refs/remotes/origin/branchcat2@{2024-02-27 16:36:53 -0500}: update by push
+ab728e8 refs/heads/branchcat2@{2024-02-27 16:36:48 -0500}: commit: ajustement des espaces
+ab728e8 HEAD@{2024-02-27 16:36:48 -0500}: commit: ajustement des espaces
+54fc6d0 refs/remotes/origin/branchcat2@{2024-02-27 16:32:17 -0500}: update by push
+54fc6d0 refs/heads/branchcat2@{2024-02-27 16:32:12 -0500}: commit: ajustement des espaces
+54fc6d0 HEAD@{2024-02-27 16:32:12 -0500}: commit: ajustement des espaces
+c16ae61 refs/remotes/origin/branchcat2@{2024-02-27 16:30:57 -0500}: update by push
+c16ae61 refs/heads/branchcat2@{2024-02-27 16:30:52 -0500}: commit: ajustement des espaces
+c16ae61 HEAD@{2024-02-27 16:30:52 -0500}: commit: ajustement des espaces
+349daa7 refs/remotes/origin/branchcat2@{2024-02-27 16:29:12 -0500}: update by push
+349daa7 refs/heads/branchcat2@{2024-02-27 16:29:08 -0500}: commit: ajustement des espaces
+349daa7 HEAD@{2024-02-27 16:29:08 -0500}: commit: ajustement des espaces
+c110023 refs/remotes/origin/branchcat2@{2024-02-27 16:27:22 -0500}: update by push
+c110023 refs/heads/branchcat2@{2024-02-27 16:27:16 -0500}: commit: ajustement des espaces
+c110023 HEAD@{2024-02-27 16:27:16 -0500}: commit: ajustement des espaces
+479d727 refs/remotes/origin/branchcat2@{2024-02-27 16:24:58 -0500}: update by push
+479d727 refs/heads/branchcat2@{2024-02-27 16:24:53 -0500}: commit: ajustement des espaces
+479d727 HEAD@{2024-02-27 16:24:53 -0500}: commit: ajustement des espaces
+e16fd11 refs/remotes/origin/branchcat2@{2024-02-27 16:23:15 -0500}: update by push
+e16fd11 refs/heads/branchcat2@{2024-02-27 16:23:09 -0500}: commit: ajustement des éléments html au milieu
+e16fd11 HEAD@{2024-02-27 16:23:09 -0500}: commit: ajustement des éléments html au milieu
+6baf7ba refs/remotes/origin/branchcat2@{2024-02-27 16:16:47 -0500}: update by push
+6baf7ba refs/heads/branchcat2@{2024-02-27 16:16:41 -0500}: commit: ajout d'une page css temporaire
+6baf7ba HEAD@{2024-02-27 16:16:41 -0500}: commit: ajout d'une page css temporaire
+5bd6232 refs/remotes/origin/branchcat2@{2024-02-26 21:36:46 -0500}: update by push
+5bd6232 refs/heads/branchcat2@{2024-02-26 21:36:40 -0500}: commit: ajustement du titre
+5bd6232 HEAD@{2024-02-26 21:36:40 -0500}: commit: ajustement du titre
+e3a4ece refs/heads/branchcat2@{2024-02-26 21:32:07 -0500}: branch: Created from refs/remotes/origin/branchcat2
+e3a4ece HEAD@{2024-02-26 21:32:07 -0500}: checkout: moving from master to branchcat2
+504d370 refs/remotes/origin/branchcat1@{2024-02-26 21:29:45 -0500}: fetch: storing head
+e3a4ece refs/remotes/origin/branchcat2@{2024-02-26 21:29:45 -0500}: fetch: storing head
+1668045 (origin/feedback) refs/remotes/origin/feedback@{2024-02-26 21:29:45 -0500}: fetch: storing head
+ab953e6 refs/remotes/origin/main@{2024-02-26 21:29:45 -0500}: fetch: storing head
