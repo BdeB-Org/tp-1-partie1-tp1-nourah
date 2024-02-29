@@ -1,5 +1,24 @@
 /*vrai page de style*/
+.milieu {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(70px, 1fr));
+    gap: 7px;
+    place-items: center;
+    text-align: center;
+    margin: 10px;
+}
 
-h1{
-    
+.image-container {
+    text-align: center;
+}
+
+img {
+    display: inline-block;
+    vertical-align: center;
+}
+
+p {
+    display: inline-block;
+    vertical-align: center;
+    margin-left: 10px;
 }
