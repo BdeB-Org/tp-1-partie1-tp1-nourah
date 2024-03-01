@@ -1,7 +1,7 @@
 /*vrai page de style*/
 .milieu {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(70px, 1fr));
+    grid-template-columns: 1fr; /* Une seule colonne */
     gap: 7px;
     place-items: center;
     text-align: center;
