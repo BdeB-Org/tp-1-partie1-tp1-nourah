@@ -51,16 +51,16 @@ h3 {
     font-size: 25px;
 }
 
- /* Utilisation de flexbox pour aligner les éléments côte à côte */
+/* Utilisation de flexbox pour aligner les éléments côte à côte */
 .container {
     display: flex;
-   
+
 }
 
 /* Les éléments h2 et h3 auront une taille égale et occuperont tout l'espace disponible */
 h3 {
     flex: 1;
-  
+
 }
 
 /*placer l'image dans un container */
