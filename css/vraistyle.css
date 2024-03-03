@@ -1,0 +1,63 @@
+/*vrai page de style*/
+.milieu {
+    display: grid;
+    grid-template-columns: 1fr; /* Une seule colonne */
+    gap: 7px;
+    place-items: center;
+    text-align: center;
+    margin: 10px;
+}
+
+.image-container {
+    text-align: center;
+}
+
+img {
+    display: inline-block;
+    vertical-align: center;
+}
+
+p {
+    display: inline-block;
+    vertical-align: center;
+    margin-left: 10px;
+}
+
+
+/* style du body*/
+body{
+    background-color: #838383;
+    color: rgb(0, 0, 0);
+}
+
+h1{
+    text-align: center;
+    font-size: 50px;
+}
+
+h2{
+    text-align: left;
+    font-size: 25px;
+}
+
+h3{
+    text-align: right;
+    font-size: 25px;
+}
+
+.container {
+    display: flex; /* Utilisation de flexbox pour aligner les éléments côte à côte */
+}
+
+h2, h3 {
+    flex: 1; /* Les éléments h2 et h3 auront une taille égale et occuperont tout l'espace disponible */
+}
+
+.image1{
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+
+/* style du body*/
