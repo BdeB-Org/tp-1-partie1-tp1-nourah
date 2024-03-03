@@ -1,7 +1,8 @@
 /*vrai page de style*/
 .milieu {
     display: grid;
-    grid-template-columns: 1fr; /* Une seule colonne */
+    grid-template-columns: 1fr;
+    /* Une seule colonne */
     gap: 7px;
     place-items: center;
     text-align: center;
@@ -25,39 +26,54 @@ p {
 
 
 /* style du body*/
-body{
+body {
     background-color: #838383;
     color: rgb(0, 0, 0);
 }
 
-h1{
+h1 {
     text-align: center;
     font-size: 50px;
 }
 
-h2{
+h2 {
     text-align: left;
     font-size: 25px;
 }
 
-h3{
+h3 {
     text-align: right;
     font-size: 25px;
 }
 
 .container {
-    display: flex; /* Utilisation de flexbox pour aligner les éléments côte à côte */
+    display: flex;
+    /* Utilisation de flexbox pour aligner les éléments côte à côte */
 }
 
-h2, h3 {
-    flex: 1; /* Les éléments h2 et h3 auront une taille égale et occuperont tout l'espace disponible */
+h2,
+h3 {
+    flex: 1;
+    /* Les éléments h2 et h3 auront une taille égale et occuperont tout l'espace disponible */
 }
 
-.image1{
+.image1 {
     display: block;
-    margin-left:auto;
-    margin-right:auto;
+    margin-left: auto;
+    margin-right: auto;
 }
 
+.containerr {
+    overflow: hidden;
 
-/* style du body*/
+}
+
+.h2Containerr {
+    float: left;
+    width: 50%;
+}
+
+.h3Containerr {
+    float: right;
+    width: 50%;
+}

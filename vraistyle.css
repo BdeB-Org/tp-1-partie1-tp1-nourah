@@ -58,6 +58,16 @@ h2, h3 {
     margin-left:auto;
     margin-right:auto;
 }
-
+.container {
+    overflow: hidden; /* Clearfix pour éviter les problèmes de hauteur */
+}
+.h2Container {
+    float: left; /* Déplacer vers la gauche */
+    width: 50%; /* Prendre la moitié de la largeur */
+}
+.h3Container {
+    float: right; /* Déplacer vers la droite */
+    width: 50%; /* Prendre la moitié de la largeur */
+}
 
 /* style du body*/
