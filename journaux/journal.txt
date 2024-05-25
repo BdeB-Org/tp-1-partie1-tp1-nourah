@@ -1,0 +1,159 @@
+a74dd14 (origin/main, main) Merge pull request #7 from BdeB-Org/branchcat2
+8553e49 (HEAD -> branchcat2, origin/branchcat2) ajustements des espaces
+6bc3acc ajustements des espaces
+a604e08 .
+294cdba Merge branch 'branchcat2' of https://github.com/BdeB-Org/tp-1-partie1-tp1-nourah into branchcat2
+3a3e9e6 (origin/css, css) ajout de la vrai page css
+1c52656 ajout de la page css dans les autres pages
+5379851 (origin/branchcat1, branchcat1) Merge branch 'branchcat1' of https://github.com/BdeB-Org/tp-1-partie1-tp1-nourah into branchcat1
+b10d4cd ajout de texte produit1
+afd970c ajout de la page css dans les autres pages
+16a8b1c Merge branch 'branchcat2' of https://github.com/BdeB-Org/tp-1-partie1-tp1-nourah into branchcat2
+2a10832 ajustement des espaces
+645dd5d Merge branch 'branchcat2' of https://github.com/BdeB-Org/tp-1-partie1-tp1-nourah into branchcat2
+73a8668 ajustement des espaces
+ebbc154 Merge branch 'branchcat2' of https://github.com/BdeB-Org/tp-1-partie1-tp1-nourah into branchcat2
+b4e61a9 ajustement des espaces
+a09302b Merge branch 'branchcat2' of https://github.com/BdeB-Org/tp-1-partie1-tp1-nourah into branchcat2
+ccd3705 ajustement des espaces
+1340220 Merge branch 'branchcat2' of https://github.com/BdeB-Org/tp-1-partie1-tp1-nourah into branchcat2
+029ac6d ajustement des espaces
+62fd502 Merge branch 'branchcat2' of https://github.com/BdeB-Org/tp-1-partie1-tp1-nourah into branchcat2
+bea127d ajustement des espaces
+40a0aa3 Merge branch 'branchcat2' of https://github.com/BdeB-Org/tp-1-partie1-tp1-nourah into branchcat2
+7bf5c72 ajustement des espaces
+82618d5 Merge branch 'branchcat2' of https://github.com/BdeB-Org/tp-1-partie1-tp1-nourah into branchcat2
+268f921 ajustement des espaces
+b07468a Merge branch 'branchcat2' of https://github.com/BdeB-Org/tp-1-partie1-tp1-nourah into branchcat2
+2ee5219 ajustement des espaces
+b5178b8 Merge branch 'branchcat2' of https://github.com/BdeB-Org/tp-1-partie1-tp1-nourah into branchcat2
+068457f ajustement des espaces
+2ff9f76 Merge branch 'branchcat2' of https://github.com/BdeB-Org/tp-1-partie1-tp1-nourah into branchcat2
+bc7ea20 ajustement des espaces
+f40cc8c Merge branch 'branchcat2' of https://github.com/BdeB-Org/tp-1-partie1-tp1-nourah into branchcat2
+afe4f2b ajustement des espaces
+ac823e9 Merge branch 'branchcat2' of https://github.com/BdeB-Org/tp-1-partie1-tp1-nourah into branchcat2
+ce3e089 ajustement des espaces
+71b50dd Merge branch 'branchcat2' of https://github.com/BdeB-Org/tp-1-partie1-tp1-nourah into branchcat2
+5da342b ajustement des espaces
+953b68d Merge branch 'branchcat2' of https://github.com/BdeB-Org/tp-1-partie1-tp1-nourah into branchcat2
+4ea5c3e ajustement des espaces
+565c4f4 Merge branch 'branchcat2' of https://github.com/BdeB-Org/tp-1-partie1-tp1-nourah into branchcat2
+73e9040 ajustement des espaces
+fd9feb7 Merge branch 'branchcat2' of https://github.com/BdeB-Org/tp-1-partie1-tp1-nourah into branchcat2
+11eed06 ajustement des espaces
+63dfb96 Merge branch 'branchcat2' of https://github.com/BdeB-Org/tp-1-partie1-tp1-nourah into branchcat2
+15aaa78 ajustement des espaces
+bc247b3 Merge branch 'branchcat2' of https://github.com/BdeB-Org/tp-1-partie1-tp1-nourah into branchcat2
+d926ee4 ajustement des espaces
+0716207 Merge branches 'branchcat2' and 'branchcat2' of https://github.com/BdeB-Org/tp-1-partie1-tp1-nourah into branchcat2
+0e61470 ajustement des espaces
+cc8592f Merge branch 'branchcat2' of https://github.com/BdeB-Org/tp-1-partie1-tp1-nourah into branchcat2
+95962ea ajustement des espaces
+18a24be Merge branch 'branchcat2' of https://github.com/BdeB-Org/tp-1-partie1-tp1-nourah into branchcat2
+0a27413 ajustement des espaces
+a96f508 Merge branch 'branchcat2' of https://github.com/BdeB-Org/tp-1-partie1-tp1-nourah into branchcat2
+87ca408 ajustement des espaces
+a4501a9 Merge branch 'branchcat2' of https://github.com/BdeB-Org/tp-1-partie1-tp1-nourah into branchcat2
+2adda13 ajustement des espaces
+62e34ff Merge branch 'branchcat2' of https://github.com/BdeB-Org/tp-1-partie1-tp1-nourah into branchcat2
+6588d4f ajustement des espaces
+a70cd8f ajustement des espaces
+d4d7c66 ajustement des espaces
+8643bf2 ajustement des espaces
+fa33fc2 ajustement des espaces
+bf428b6 ajustement des espaces
+837b57c ajustement des espaces
+1cae7bd ajustement des espaces
+ac639a2 ajustement des espaces
+d1e8b4b ajustement des espaces
+dc145c9 ajustement des espaces
+94bfdbc ajustement des espaces
+320ead3 ajustement des espaces
+bae4c84 ajustement des espaces
+476e08b ajustement des éléments html au milieu
+b9778f3 ajout d'une page css temporaire
+aea5637 ajustement du titre
+9e97f5c ajustement du texte
+2b18c60 ajout de liens à la page index.html
+e5bcffe configuration de la page produit4.html
+494f448 ajout de lien
+e0136ef finitions 2.0
+66cfba0 finitions de la page produit3.html
+4d36c42 Ajout du produit 3
+e923f4b ajustement de la taille des images
+d7d8063 Ajout des images dans la page categorie2.html
+26d29ed Ajout du texte de présentation
+5951e16 ajustement des espaces
+1e50b42 ajustement des espaces
+2eddbba ajustement des espaces
+377e92b ajustement des espaces
+0cd2e42 ajustement des espaces
+f13ae0f ajustement des espaces
+a954309 ajustement des espaces
+b7c81f1 ajustement des espaces
+ab728e8 ajustement des espaces
+54fc6d0 ajustement des espaces
+c16ae61 ajustement des espaces
+349daa7 ajustement des espaces
+c110023 ajustement des espaces
+479d727 ajustement des espaces
+e16fd11 ajustement des éléments html au milieu
+6baf7ba ajout d'une page css temporaire
+5bd6232 ajustement du titre
+504d370 Delete index.html
+1eaf1dd .
+1718428 ajout de texte produit1
+e3a4ece ajustement du texte
+1714478 ajout de liens à la page index.html
+5e2954c configuration de la page produit4.html
+c430278 ajout de lien
+48cf502 finitions 2.0
+39674f9 finitions de la page produit3.html
+0853e5f Ajout du produit 3
+543b6c9 ajustement de la taille des images
+1706ef3 Ajout des images dans la page categorie2.html
+333dcf7 Ajout du texte de présentation
+bfe81ab Merge branch 'branchcat2' of https://github.com/BdeB-Org/tp-1-partie1-tp1-nourah into branchcat2
+825d434 Merge pull request #5 from BdeB-Org/main
+ab953e6 Merge pull request #4 from BdeB-Org/branchcat2
+815ff55 Ajout des deux catégories sur la page index.html
+70e7e32 ajout d'images et ajustement du dossier image
+7eeb2e1 ajout d'autres images
+5ae8786 ajout d'une image dans le dossier images
+b567c61 ajout de la définition des écouteurs
+454c8a5 Ajout du titre sur la page
+9219ac9 Merge branch 'brancat2' into branchcat2
+fabf79b Ajout des images pour le site
+89180e0 test
+772a905 test page
+5f1b559 Merge pull request #3 from BdeB-Org/branchcat2
+aaa5b00 ajout de la page du produit 4
+bef8d9e ajout de la page du produit 3
+8181ce1 description ecouteur sans fils
+72130f2 ajout dune image pour produit1
+96eca87 Ajout des liens vers les pages produits
+192de13 ajout du style pour le titre
+d7ce897 ajout du nom des produits
+50f2d01 ajout de la page css
+f0e2f66 ajout de la page produit 2
+c7d0dde ajout de la page categorie 1
+95a52f3 Merge branch 'branchcat1' of https://github.com/BdeB-Org/tp-1-partie1-tp1-nourah into branchcat1
+cb15aa9 ajout de la page categorie 1 html
+f661c19 Delete categorie2 pas en html
+938eb83 ajout de la page pour la categorie 2 en html
+78a209f Delete categorie1  (la page n'est pas html)
+95dbe68 Delete catt1 (la page n'est pas html)
+84d97e2 Delete produit1( la page n'est pas html)
+9418ef0 Delete produit 2( la page n'est pas html)
+378550a ajout de la page produit 2
+527d3a7 Merge pull request #2 from BdeB-Org/branchcat2
+7e2099b ajout du titre
+45a17af ajout du titre de la page
+949f0b9 ajout de produit 1 pour categorie 1
+1c69ccb AJOUT DE LA PAGE POUR LA CATEGORIE 2
+923dc83 ajout de la page pour categorie 2
+9734a7b ajout de index.html
+4b9bd48 add deadline
+1668045 (origin/feedback) GitHub Classroom Feedback
+e7000b4 Setting up GitHub Classroom Feedback

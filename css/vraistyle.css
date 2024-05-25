@@ -1,0 +1,89 @@
+/*vrai page de style*/
+
+.milieu {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 7px;
+    place-items: center;
+    text-align: center;
+    margin: 10px;
+}
+
+/*mettre image au centre*/
+.image-container {
+    text-align: center;
+}
+
+/*mettre image au centre par rapport au autres element*/
+img {
+    display: inline-block;
+    vertical-align: center;
+}
+
+p {
+    display: inline-block;
+    vertical-align: center;
+    margin-left: 10px;
+}
+
+
+/*style du body*/
+body {
+    background-color: #838383;
+    color: rgb(0, 0, 0);
+}
+
+/*centrer et agrandir*/
+h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+/*centrer et agrandir*/
+h2 {
+    text-align: left;
+    font-size: 25px;
+}
+
+/*centrer et agrandir*/
+h3 {
+    text-align: right;
+    font-size: 25px;
+}
+
+/* Utilisation de flexbox pour aligner les éléments côte à côte */
+.container {
+    display: flex;
+
+}
+
+/* Les éléments h2 et h3 auront une taille égale et occuperont tout l'espace disponible */
+h3 {
+    flex: 1;
+
+}
+
+/*placer l'image dans un container */
+.image1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/**/
+.containerr {
+    overflow: hidden;
+
+}
+
+/*deplacer les elements*/
+.h2Containerr {
+    float: left;
+    width: 50%;
+}
+
+/* */
+.h3Containerr {
+    float: right;
+    width: 50%;
+}
